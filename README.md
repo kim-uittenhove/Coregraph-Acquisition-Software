@@ -1,9 +1,9 @@
-# Trail Making Test Analysis
-Feature extraction code accompanying the paper: *"Dual-Component Analysis of Trail Making Test: Task vs. Movement Coordination "*.
+# Acquisition Software Digital Pen Tablet (WACOM INTUOS PRO)
+Acquisition software used to collect data for the paper: *"Dual-Component Analysis of Trail Making Test: Task vs. Movement Coordination "*.
 
 ## Overview
-This repository contains Python scripts for extracting cognitive task and movement coordination features from kinematic data recorded with a digital pen tablet during the Trail Making Test (TMT). 
-The code is organized into sequential analysis steps, each building on the results of the previous step.
+This repository contains acquisition software to record kinematic data from a digital pen tablet (WACOM INTUOS PRO). 
+The software allows to configure tasks, and exports .csv files with kinematic data, comprised of pen position (x,y), pressure, azimuth and elevation, sampled every 5 milliseconds.
 
 ## Installation
 Clone the repository:
