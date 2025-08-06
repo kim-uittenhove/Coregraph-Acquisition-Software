@@ -25,7 +25,7 @@ Configure tasks in the configuration file.
 This code is released under the UNIL–CHUV Software License Agreement for Academic Non-Commercial Research Purposes Only. See the [LICENSE.txt](LICENSE.txt) file for the complete terms and conditions.
 
 ## Citation
-Uittenhove, K., Richiardi, J., Von Gunten, A., & Jopp, D. (2025). Initial Release of Acquisition Software for Digital Pen Tablet Data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16753413
+Uittenhove, K., Richiardi, J., Von Gunten, A., & Jopp, D. (2025). Acquisition Software for Digital Pen Tablet Data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16753413
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16753413.svg)](https://doi.org/10.5281/zenodo.16753413)
 
